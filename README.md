@@ -1,9 +1,16 @@
 # XuchenSun-Unreal-Engine-4
 
-***Unzipping all 177 files***
 
-***running an executable file which named project*** 
+***How to run this project?***
 
-***users can move by press "w","s","a","d".***
+    ***1Unzipping all 177 files***
 
-***use command exit to quit***
+    ***2running an executable file which named project*** 
+
+***How to move?***
+
+    ***users can move by press "w","s","a","d".***
+
+***How to quit?***
+
+    ***use command exit to quit***
