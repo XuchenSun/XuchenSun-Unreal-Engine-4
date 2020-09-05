@@ -3,14 +3,15 @@
 
 ***How to run this project?***
 
-    ***1Unzipping all 177 files***
+    1Unzipping all 177 files
 
-    ***2running an executable file which named project*** 
+    2running an executable file which named project
 
 ***How to move?***
 
-    ***users can move by press "w","s","a","d".***
+    users can move by press "w","s","a","d".
 
 ***How to quit?***
 
-    ***use command exit to quit***
+    1press `
+    2write exit to quit
